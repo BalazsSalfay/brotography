@@ -20,8 +20,8 @@ function App() {
         <div className="navigation">
           <div className="navigation-sub">
 
-            <Link to="/" className="item">Projects</Link>
-            <Link to="/contact" className="item">Articles</Link>
+            <Link to="/" className="item">Portfolio</Link>
+            <Link to="/contact" className="item">Contact</Link>
             <Link to="/about" className="item">About</Link>
 
             <Gallery images={IMAGES} />
