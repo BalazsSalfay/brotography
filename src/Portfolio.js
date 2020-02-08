@@ -2,10 +2,10 @@ import React from "react";
 import Thumbnail from './Thumbnail.js';
 import './App.css';
  
-function Projcets(props) {
+function Portfolio(props) {
   return (
     <div>
-      <h1>Projects</h1>
+      <h1>Portfolio</h1>
         <Thumbnail
         link="/twitter"
         image="http://twitter-image-url.jpg"
@@ -30,4 +30,4 @@ function Projcets(props) {
   )
 }
  
-export default Projcets;
+export default Portfolio;
