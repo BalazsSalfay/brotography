@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d78b61982a991dcd076608da9cb24b65",
+    "revision": "f98ea7eec51d5f3656704942991616f4",
     "url": "/brotography/index.html"
   },
   {
-    "revision": "c46eacdcb9afbf60345a",
+    "revision": "821a7ea21728e6f42472",
     "url": "/brotography/static/css/main.d1b05096.chunk.css"
   },
   {
-    "revision": "e26ace2228b5aa044bbc",
-    "url": "/brotography/static/js/2.aaeb8880.chunk.js"
+    "revision": "a707e646c990965a737e",
+    "url": "/brotography/static/js/2.44488e8e.chunk.js"
   },
   {
-    "revision": "99bd0487192ec9e7d9ee8fbbd91ee444",
-    "url": "/brotography/static/js/2.aaeb8880.chunk.js.LICENSE.txt"
+    "revision": "27df78d2822439c2fc110c0a385025d0",
+    "url": "/brotography/static/js/2.44488e8e.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c46eacdcb9afbf60345a",
-    "url": "/brotography/static/js/main.66f5b7ff.chunk.js"
+    "revision": "821a7ea21728e6f42472",
+    "url": "/brotography/static/js/main.c952f726.chunk.js"
   },
   {
     "revision": "5eeb7b1bde916d03d323",
