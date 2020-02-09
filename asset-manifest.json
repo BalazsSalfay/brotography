@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/brotography/static/css/main.d1b05096.chunk.css",
-    "main.js": "/brotography/static/js/main.f92eb161.chunk.js",
-    "main.js.map": "/brotography/static/js/main.f92eb161.chunk.js.map",
+    "main.js": "/brotography/static/js/main.0d4afba9.chunk.js",
+    "main.js.map": "/brotography/static/js/main.0d4afba9.chunk.js.map",
     "runtime-main.js": "/brotography/static/js/runtime-main.6a1cec26.js",
     "runtime-main.js.map": "/brotography/static/js/runtime-main.6a1cec26.js.map",
     "static/js/2.deaf6ef4.chunk.js": "/brotography/static/js/2.deaf6ef4.chunk.js",
     "static/js/2.deaf6ef4.chunk.js.map": "/brotography/static/js/2.deaf6ef4.chunk.js.map",
     "index.html": "/brotography/index.html",
-    "precache-manifest.47e465fe8258556514da5185f465396f.js": "/brotography/precache-manifest.47e465fe8258556514da5185f465396f.js",
+    "precache-manifest.8ce26d3411eefabfd55b5c90c53e3747.js": "/brotography/precache-manifest.8ce26d3411eefabfd55b5c90c53e3747.js",
     "service-worker.js": "/brotography/service-worker.js",
     "static/css/main.d1b05096.chunk.css.map": "/brotography/static/css/main.d1b05096.chunk.css.map",
     "static/js/2.deaf6ef4.chunk.js.LICENSE.txt": "/brotography/static/js/2.deaf6ef4.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.6a1cec26.js",
     "static/js/2.deaf6ef4.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.f92eb161.chunk.js"
+    "static/js/main.0d4afba9.chunk.js"
   ]
 }
