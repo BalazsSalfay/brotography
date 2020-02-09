@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "34a857eb84b8b802c482ba411302f329",
+    "revision": "3b2cf204348f8e97d7cbc9f09eae0872",
     "url": "/brotography/index.html"
   },
   {
-    "revision": "78702c480862d8cdd11b",
+    "revision": "e69eed9e714a9ea318af",
     "url": "/brotography/static/css/main.d1b05096.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/brotography/static/js/2.deaf6ef4.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "78702c480862d8cdd11b",
-    "url": "/brotography/static/js/main.ab620bef.chunk.js"
+    "revision": "e69eed9e714a9ea318af",
+    "url": "/brotography/static/js/main.f92eb161.chunk.js"
   },
   {
     "revision": "5eeb7b1bde916d03d323",
