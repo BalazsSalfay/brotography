@@ -46,4 +46,17 @@ export const IMAGES =
     thumbnail: "https://drive.google.com/uc?export=download&id=1nDbtqSwir-ub74dSYOyOjVZ-CT22f0LQ",
     thumbnailWidth: 230,
     thumbnailHeight: 320,
+},
+{
+    src: "https://drive.google.com/uc?export=download&id=1zAsLSROhvg8U1Yjhj2XlS_BD3B4mbt64",
+    thumbnail: "https://drive.google.com/uc?export=download&id=1zAsLSROhvg8U1Yjhj2XlS_BD3B4mbt64",
+    thumbnailWidth: 320,
+    thumbnailHeight: 212,
+},
+{
+    src: "https://drive.google.com/uc?export=download&id=1hdkgaeFqZKXVD2IAKVYiYaosvhrTZSdt",
+    thumbnail: "https://drive.google.com/uc?export=download&id=1hdkgaeFqZKXVD2IAKVYiYaosvhrTZSdt",
+    thumbnailWidth: 320,
+    thumbnailHeight: 212,
 }]
+

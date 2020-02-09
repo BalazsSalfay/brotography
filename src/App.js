@@ -24,7 +24,7 @@ function App() {
             <Link to="/contact" className="item">Contact</Link>
             <Link to="/about" className="item">About</Link>
 
-            <Gallery images={IMAGES} rowHeight={340} margin={5} />
+            <Gallery images={IMAGES} rowHeight={280} margin={4} />
           </div>
         </div>
       </div>
